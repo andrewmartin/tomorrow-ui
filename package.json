@@ -4,10 +4,7 @@
   "version": "0.6.0",
   "description": "A theme designed to complement tomorrow and base16-tomorrow; custom fork from tomorrow-ui.",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/andrewmartin/tomorrow-ui"
-  },
+  "repository": "git@github.com:andrewmartin/base16-tomorrow-dark-theme.git",
   "engines": {
     "atom": ">0.50.0"
   },
