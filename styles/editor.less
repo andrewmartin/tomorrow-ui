@@ -22,7 +22,7 @@ atom-text-editor[mini] {
   }
 }
 
-atom-text-editor, atom-text-editor::shadow {
+atom-text-editor, atom-text-editor.editor {
   text-rendering: optimizeLegibility;
 
   .scroll-view {
@@ -59,6 +59,6 @@ atom-text-editor[mini].is-focused {
   }
 }
 
-atom-text-editor::shadow .selection .region {
+atom-text-editor.editor .selection .region {
   background-color: @background-color-selected;
 }
