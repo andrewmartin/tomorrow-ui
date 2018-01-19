@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com/andrewmartin/tomorrow-ui"
+    "url": "git@github.com/andrewmartin/tomorrow-ui.git"
   },
   "engines": {
     "atom": ">0.50.0"
